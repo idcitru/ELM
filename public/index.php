@@ -7,9 +7,8 @@
  */
 
 
-/*
 $default_route = "c_show_all";
-$valid_routes = ["c_show_all"];
+$valid_routes = ["c_show_all", "c_show_founds", "c_show_arrivals", "c_show_counts"];
 
 $route = (empty($_GET['route'])) ? $default_route : $_GET['route'];
 
@@ -22,15 +21,3 @@ else {
     echo "wrong";
 }
 
-
-*/
-
-$greatefile = fopen("/tmp/testfile.txt.", 'w') or die("Создать файл не удалось");
-$text = <<<_END
-     Строка 1
-     Строка 2
-     Строка 3
-_END;
-fwrite($greatefile, $text) or die("Сбой при записи файла");
-fclose($greatefile);
-echo "Файл успешно записан.";

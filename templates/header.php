@@ -22,7 +22,12 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">Распределение доход</a>
+            <a class="navbar-brand" href="http://localhost/github/ELM/public/">Распределение доход</a>
+            <a class="navbar-brand" href="?route=c_show_arrivals">Приходы</a>
+            <a class="navbar-brand" href="?route=c_show_arrivals">Расходы</a>
+            <a class="navbar-brand" href="?route=c_show_counts">Счета</a>
+            <a class="navbar-brand" href="?route=c_show_founds">Фонды</a>
+            <a class="navbar-brand" href="?route=c_show_founds">Цели</a>
         </div>
     </div>
 </nav>

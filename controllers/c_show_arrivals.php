@@ -8,9 +8,8 @@
 
 require(__DIR__ . "/../models/m_empoyees.php");
 
-$counts = get_counts();
-
-require(__DIR__ . "/../templates/t_show_all.php");
+$arrivals = get_arrivals();
 
 
+require(__DIR__ . "/../templates/t_show_arrivals.php");
 
