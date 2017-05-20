@@ -5,7 +5,7 @@
                 <h1>Счета</h1>
         </div>
 
-        <div class="col-md-4">  <h3>Итого приход: <?  ?></h3></div>
+        <div class="col-md-4">  <h3 align="right">Итого на счетах: <?= $sum; ?></h3></div>
     </div>
 
 
@@ -21,8 +21,8 @@
 
         <?php foreach ($counts as $count): ?>
             <tr>
-                <td> <div align="center"> <?= $count[0];?> </div> </td>
-                <td> <div align="center"> <?= $count[1];?> </div> </td>
+                <td> <div align="left"> <?= $count[0];?> </div> </td>
+                <td> <div align="right"> <?= (!$count[1] ? ("0") : $count[1]);  ?> </div> </td>
             </tr>
         <?php endforeach; ?>
         </tbody>
@@ -30,14 +30,6 @@
     <div class="page-header">
         <h1>Фонды</h1>
     </div>
-
-    <h2>
-        <span class="label label-default">На будующее</span>
-        <span class="label label-primary">На квартиру</span>
-        <span class="label label-success">Обязательства</span>
-        <span class="label label-info">Потребления</span>
-        <span class="label label-warning">Благотворительность</span>
-    </h2>
 
     <div class="page-header">
         <h1>Цели</h1>

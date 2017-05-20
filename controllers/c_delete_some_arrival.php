@@ -8,8 +8,8 @@
 
 require(__DIR__ . "/../models/m_elm.php");
 
-$counts = get_counts();
+delete_some_arrival($_GET["id_del"]);
+$arrivals = get_arrivals();
 
-
-require(__DIR__ . "/../templates/t_show_counts.php");
+require(__DIR__ . "/../templates/t_show_arrivals.php");
 

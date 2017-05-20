@@ -6,10 +6,14 @@
  * Time: 17:13
  */
 
-require(__DIR__ . "/../models/m_empoyees.php");
+require(__DIR__ . "/../models/m_elm.php");
 
-add_arrival();
-header("Location: index.php?route=c_show_arrivals");
+if (isset($_GET["new_date"]) && isset($_GET["new_date"])) {
 
-require(__DIR__ . "/../templates/t_show_arrivals.php");
+    add_arrival();
+    header("Location: index.php?route=c_show_arrivals");
+}
+
+$counts = get_some_counts();
+require(__DIR__ . "/../templates/t_add_arrival.php");
 

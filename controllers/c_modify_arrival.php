@@ -6,10 +6,21 @@
  * Time: 17:13
  */
 
-require(__DIR__ . "/../models/m_empoyees.php");
 
-echo "look at me";
+require(__DIR__ . "/../models/m_elm.php");
 
+if (!isset($_GET["id_mod"])) {
+    header("Location: index.php?route=c_show_arrivals");
+}
 
-require(__DIR__ . "/../templates/t_show_funds.php");
+if (isset($_GET["id_mod"]) && isset($_GET["new_fio"])) {
+
+    modify_some_employee();
+    header("Location: /index.php");
+}
+
+$counts = get_some_counts();
+$arrivals = get_some_arrival();
+
+require(__DIR__ . "/../templates/t_modify_arrival.php");
 

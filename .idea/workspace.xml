@@ -15,38 +15,85 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="c_add_arrival.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/c_add_arrival.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="t_show_arrivals.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/t_show_arrivals.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="33" column="84" lean-forward="false" selection-start-line="33" selection-start-column="84" selection-end-line="33" selection-end-column="84" />
+            <state relative-caret-position="483">
+              <caret line="33" column="75" lean-forward="false" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="m_empoyees.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/models/m_empoyees.php">
+      <file leaf-file-name="c_add_arrival.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/c_add_arrival.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="288">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t_modify_arrival.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/t_modify_arrival.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t_add_arrival.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/t_add_arrival.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t_show_counts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/t_show_counts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m_elm.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/m_elm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
-                <marker date="1495138719000" expanded="true" signature="214:233" ph="SELECT * FRO... founds" />
-                <marker date="1495138719000" expanded="true" signature="214:270" ph="SELECT * FRO... funds" />
-                <marker date="1495138719000" expanded="true" signature="381:491" ph="SELECT date,... " />
-                <marker date="1495138719000" expanded="true" signature="637:749" ph="SELECT count... arrivals" />
-                <marker date="1495138719000" expanded="true" signature="1152:1302" ph="INSERT INTO `employees`... " />
+                <marker date="1495308316000" expanded="true" signature="213:232" ph="SELECT * FRO... founds" />
+                <marker date="1495308316000" expanded="true" signature="213:269" ph="SELECT * FRO... funds" />
+                <marker date="1495308316000" expanded="true" signature="380:499" ph="SELECT arriv... " />
+                <marker date="1495308316000" expanded="true" signature="380:500" ph="SELECT date,... " />
+                <marker date="1495308316000" expanded="true" signature="652:791" ph="SELECT arriv... " />
+                <marker date="1495308316000" expanded="true" signature="652:792" ph="SELECT arriv... " />
+                <marker date="1495308316000" expanded="true" signature="792:805" ph="SELECT arriv... " />
+                <marker date="1495308316000" expanded="true" signature="993:1025" ph="Delete from " />
+                <marker date="1495308316000" expanded="true" signature="1133:1263" ph="SELECT count... counts" />
+                <marker date="1495308316000" expanded="true" signature="1133:1265" ph="SELECT count... arrivals" />
+                <marker date="1495308316000" expanded="true" signature="1591:1704" ph="INSERT INTO `employees`... " />
+                <marker date="1495308316000" expanded="true" signature="1811:1862" ph="SELECT count... counts" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c_delete_some_arrival.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/c_delete_some_arrival.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +103,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>SELECT date, count_name, sum  FROM arrivals LEFT JOIN counts ON counts.id = arrivals.count_id</find>
+      <find>SELECT count_name, sum(sum)  FROM arrivals LEFT JOIN counts ON counts.id = arrivals.count_id GROUP BY count_name</find>
+      <find>add</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -70,16 +119,20 @@
         <option value="$PROJECT_DIR$/controllers/c_show_arrivals.php" />
         <option value="$PROJECT_DIR$/templates/t_show_funds.php" />
         <option value="$PROJECT_DIR$/controllers/c_show_counts.php" />
-        <option value="$PROJECT_DIR$/templates/t_show_counts.php" />
-        <option value="$PROJECT_DIR$/templates/t_show_all.php" />
-        <option value="$PROJECT_DIR$/controllers/c_show_all.php" />
         <option value="$PROJECT_DIR$/templates/header.php" />
-        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/models/m_empoyees.php" />
         <option value="$PROJECT_DIR$/controllers/c_add_arrival.php" />
-        <option value="$PROJECT_DIR$/templates/t_show_arrivals.php" />
         <option value="$PROJECT_DIR$/controllers/c_modify_arrival.php" />
         <option value="$PROJECT_DIR$/templates/t_modify_arrival.php" />
-        <option value="$PROJECT_DIR$/models/m_empoyees.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/templates/t_show_arrivals.php" />
+        <option value="$PROJECT_DIR$/controllers/c_delete_some_arrival.php" />
+        <option value="$PROJECT_DIR$/public/test.php" />
+        <option value="$PROJECT_DIR$/controllers/c_show_all.php" />
+        <option value="$PROJECT_DIR$/templates/t_show_all.php" />
+        <option value="$PROJECT_DIR$/templates/t_add_arrival.php" />
+        <option value="$PROJECT_DIR$/templates/t_show_counts.php" />
+        <option value="$PROJECT_DIR$/models/m_elm.php" />
       </list>
     </option>
   </component>
@@ -109,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -194,7 +248,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,12 +257,12 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$/controllers" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -285,12 +338,13 @@
       <workItem from="1494484991208" duration="1127000" />
       <workItem from="1494521360246" duration="7282000" />
       <workItem from="1494576339216" duration="6333000" />
-      <workItem from="1495137191788" duration="1615000" />
+      <workItem from="1495137191788" duration="5020000" />
+      <workItem from="1495187144105" duration="10863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22411000" />
+    <option name="totallyTimeSpent" value="36679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -314,6 +368,25 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -326,6 +399,61 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/t_show_arrivals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/c_add_arrival.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/t_add_arrival.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#83#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/m_elm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <marker date="1495308316000" expanded="true" signature="213:232" ph="SELECT * FRO... founds" />
+            <marker date="1495308316000" expanded="true" signature="213:269" ph="SELECT * FRO... funds" />
+            <marker date="1495308316000" expanded="true" signature="380:499" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="380:500" ph="SELECT date,... " />
+            <marker date="1495308316000" expanded="true" signature="652:791" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="652:792" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="792:805" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="993:1025" ph="Delete from " />
+            <marker date="1495308316000" expanded="true" signature="1133:1263" ph="SELECT count... counts" />
+            <marker date="1495308316000" expanded="true" signature="1133:1265" ph="SELECT count... arrivals" />
+            <marker date="1495308316000" expanded="true" signature="1591:1704" ph="INSERT INTO `employees`... " />
+            <marker date="1495308316000" expanded="true" signature="1811:1862" ph="SELECT count... counts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/c_show_arrivals.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -382,16 +510,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/m_empoyees.php">
+    <entry file="file://$PROJECT_DIR$/models/m_elm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <marker date="1495138719000" expanded="true" signature="214:233" ph="SELECT * FRO... founds" />
-            <marker date="1495138719000" expanded="true" signature="214:270" ph="SELECT * FRO... funds" />
-            <marker date="1495138719000" expanded="true" signature="381:491" ph="SELECT date,... " />
-            <marker date="1495138719000" expanded="true" signature="637:749" ph="SELECT count... arrivals" />
-            <marker date="1495138719000" expanded="true" signature="1152:1302" ph="INSERT INTO `employees`... " />
+            <marker date="1495308316000" expanded="true" signature="213:232" ph="SELECT * FRO... founds" />
+            <marker date="1495308316000" expanded="true" signature="213:269" ph="SELECT * FRO... funds" />
+            <marker date="1495308316000" expanded="true" signature="380:499" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="380:500" ph="SELECT date,... " />
+            <marker date="1495308316000" expanded="true" signature="652:791" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="652:792" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="792:805" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="993:1025" ph="Delete from " />
+            <marker date="1495308316000" expanded="true" signature="1133:1263" ph="SELECT count... counts" />
+            <marker date="1495308316000" expanded="true" signature="1133:1265" ph="SELECT count... arrivals" />
+            <marker date="1495308316000" expanded="true" signature="1591:1704" ph="INSERT INTO `employees`... " />
+            <marker date="1495308316000" expanded="true" signature="1811:1862" ph="SELECT count... counts" />
           </folding>
         </state>
       </provider>
@@ -528,26 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/c_show_counts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/t_show_funds.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/t_show_counts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -560,14 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/t_show_all.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -576,26 +687,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/t_modify_arrival.php">
+    <entry file="file://$PROJECT_DIR$/../Phonebook/controllers/c_modify_some_empoyee.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Phonebook/templates/t_modify_some_employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/c_modify_arrival.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/c_show_all.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="384">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -603,53 +714,136 @@
     <entry file="file://$PROJECT_DIR$/controllers/c_show_arrivals.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Phonebook/models/m_empoyees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="106" selection-end-column="1" />
+          <folding>
+            <marker date="1489311119000" expanded="true" signature="221:244" ph="SELECT * FRO... employees" />
+            <marker date="1489311119000" expanded="true" signature="403:565" ph="SELECT emplo... employees" />
+            <marker date="1489311119000" expanded="true" signature="720:744" ph="SELECT * FRO... department" />
+            <marker date="1489311119000" expanded="true" signature="963:1020" ph="SELECT * FRO... employees" />
+            <marker date="1489311119000" expanded="true" signature="1212:1259" ph="SELECT * FRO... employees" />
+            <marker date="1489311119000" expanded="true" signature="1705:1904" ph="UPDATE emplo... " />
+            <marker date="1489311119000" expanded="true" signature="2274:2424" ph="INSERT INTO `employees`... " />
+            <marker date="1489311119000" expanded="true" signature="2565:2598" ph="Delete from " />
+            <marker date="1489311119000" expanded="true" signature="2855:2915" ph="SELECT * FRO... employees" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#6#83#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="10" column="98" lean-forward="false" selection-start-line="10" selection-start-column="98" selection-end-line="10" selection-end-column="98" />
+          <caret line="10" column="143" lean-forward="false" selection-start-line="10" selection-start-column="143" selection-end-line="10" selection-end-column="143" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/t_add_arrival.php">
+    <entry file="file://$PROJECT_DIR$/templates/t_show_all.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="553">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/c_add_arrival.php">
+    <entry file="file://$PROJECT_DIR$/controllers/c_show_all.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/t_show_arrivals.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="33" column="84" lean-forward="false" selection-start-line="33" selection-start-column="84" selection-end-line="33" selection-end-column="84" />
+        <state relative-caret-position="483">
+          <caret line="33" column="75" lean-forward="false" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/m_empoyees.php">
+    <entry file="file://$PROJECT_DIR$/controllers/c_show_counts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/c_delete_some_arrival.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/c_add_arrival.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/t_modify_arrival.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/t_add_arrival.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/t_show_counts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/m_elm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
-            <marker date="1495138719000" expanded="true" signature="214:233" ph="SELECT * FRO... founds" />
-            <marker date="1495138719000" expanded="true" signature="214:270" ph="SELECT * FRO... funds" />
-            <marker date="1495138719000" expanded="true" signature="381:491" ph="SELECT date,... " />
-            <marker date="1495138719000" expanded="true" signature="637:749" ph="SELECT count... arrivals" />
-            <marker date="1495138719000" expanded="true" signature="1152:1302" ph="INSERT INTO `employees`... " />
+            <marker date="1495308316000" expanded="true" signature="213:232" ph="SELECT * FRO... founds" />
+            <marker date="1495308316000" expanded="true" signature="213:269" ph="SELECT * FRO... funds" />
+            <marker date="1495308316000" expanded="true" signature="380:499" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="380:500" ph="SELECT date,... " />
+            <marker date="1495308316000" expanded="true" signature="652:791" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="652:792" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="792:805" ph="SELECT arriv... " />
+            <marker date="1495308316000" expanded="true" signature="993:1025" ph="Delete from " />
+            <marker date="1495308316000" expanded="true" signature="1133:1263" ph="SELECT count... counts" />
+            <marker date="1495308316000" expanded="true" signature="1133:1265" ph="SELECT count... arrivals" />
+            <marker date="1495308316000" expanded="true" signature="1591:1704" ph="INSERT INTO `employees`... " />
+            <marker date="1495308316000" expanded="true" signature="1811:1862" ph="SELECT count... counts" />
           </folding>
         </state>
       </provider>

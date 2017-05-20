@@ -26,12 +26,12 @@
 
         <?php foreach ($arrivals as $arrival): ?>
             <tr>
-                <td> <div align="center"> <?= $arrival[0];?> </div> </td>
                 <td> <div align="center"> <?= $arrival[1];?> </div> </td>
                 <td> <div align="center"> <?= $arrival[2];?> </div> </td>
                 <td> <div align="center"> <?= $arrival[3];?> </div> </td>
-                <td> <div align="center"> <a href="/index.php?route=c_modify_arrival&id_mod=<?= $arrival[0]?>"> Изменить </a></div> </td>
-                <td> <div align="center"> <a href="/index.php?route=c_modify_arrival&id_del=<?= $arrival[0]?>"> Удалить </a></div></td>
+                <td> <div align="center"> <?= $arrival[4];?> </div> </td>
+                <td> <div align="center"> <a href="index.php?route=c_modify_arrival&id_mod=<?= $arrival[0]?>"> Изменить </a></div> </td>
+                <td> <div align="center"> <a href="index.php?route=c_delete_some_arrival&id_del=<?= $arrival[0]?>"> Удалить </a></div></td>
             </tr>
         <?php endforeach; ?>
         </tbody>
